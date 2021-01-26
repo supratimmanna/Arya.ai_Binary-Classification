@@ -18,4 +18,6 @@
 # Model Training:
 ### 1. Split the given data into training set and validation set with a ratio of 4:1. 
 ### 2. Normalized the data.
-### 3. Select the best model from model selection part and trained it with the training set and vaidate the peroformance of the model with the validation set to check if overfitting is occuring.
+### 3. Select the best model from model selection part and trained it with the training set and vaidate the peroformance of the model with the validation set to check if          overfitting is occuring.
+### 4. Calculate the training accuracy and validation accuracy of the model. Also calculate the confusion matrix to get a better understanding of the performance of the model.
+### 5. After a satisfactory training process, make the prediction on the test data set using the trained model.
