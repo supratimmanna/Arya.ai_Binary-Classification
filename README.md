@@ -16,4 +16,6 @@
 ### 3. Select the model with best performance for the final training.
 
 # Model Training:
-###1. Split the given data into training set and validation set with a ratio of 4:1. 
+### 1. Split the given data into training set and validation set with a ratio of 4:1. 
+### 2. Normalized the data.
+### 3. Select the best model from model selection part and trained it with the training set and vaidate the peroformance of the model with the validation set to check if overfitting is occuring.
